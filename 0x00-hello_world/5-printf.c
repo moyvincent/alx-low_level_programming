@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * Description: A proper Desc
- * Return: 0 (Success)
+ * main - Entry point
+ * Description: Short description
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
